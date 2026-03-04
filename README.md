@@ -8,8 +8,10 @@ Here are some ideas to get you started:
 HTML
 CSS
 Java script
+Git/Github
+DEVCLUB
 
-- 🔭 Sou Genildo Propramador Full stack em transição de carreira
+- 🔭 Sou Genildo Propramador Full stack
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
